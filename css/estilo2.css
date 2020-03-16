@@ -1,0 +1,405 @@
+header{
+	width: 100%;
+	height: 20px:;
+	background-color: #6ab04c;
+	z-index: 2;
+	
+
+
+
+}
+
+
+
+
+header .container{
+	
+  
+
+
+}
+
+header #logo{
+	 position: absolute;
+	 top: -5px;
+}
+ .container #navegacao{
+ 	position: relative;
+ 	top: 4px;
+ 	right: 150px;
+ 	
+
+
+
+ }
+
+#navegacao li{
+   display: inline-block;
+
+
+
+
+  
+
+}
+ #navegacao li .btn{
+ 	background-color: #6ab04c;
+ 	color: #fff;
+ 	border-color: #6ab04c;
+
+
+
+
+ }
+
+.container #navegacao li input{
+	border: none;
+ 	
+ 
+	
+
+ }
+
+ #navegacao li .input-group{
+ 	position: absolute;
+ 	top: 5px;
+ 	
+ 	
+}
+
+footer{
+	background-color: #2d3436;
+	width: 100%;
+	height: 200px;
+	position: relative;
+
+}
+
+
+.row-direitos h1{
+	color: #fff;
+	font-size: 15px;
+
+}
+
+.row-direitos h2{
+	color: #fff;
+	font-size: 15px;
+
+}
+
+
+footer .row{
+	margin-top: 30px;
+
+}
+
+.row-atalhos li{
+	position: relative;
+	right: 50px;
+
+
+}
+
+.row-atalhos h3{
+	color: #fff;
+}
+
+.row-atalhos a{
+	color: #fff;
+
+}
+
+footer h4{
+	color: #fff;
+	font-size: 25px;
+	
+
+}
+
+.row-contato h5{
+	color: #fff;
+	font-size: 15px;
+
+}
+
+#areasdeatuacao .container{
+	
+
+}
+
+#areasdeatuacao .row{
+	position: relative;
+	left: 50px;
+
+
+
+
+}
+
+.col-md-4{
+	
+
+
+
+
+}
+
+.col-md-4 a{
+	position: absolute;
+	
+
+
+
+
+
+
+}
+
+
+.col-md-4 .btn{
+  background-color: rgba(0, 0, 0, 0);
+  border-color: #fff;
+  color: #fff;
+}
+
+.col-md-4 .btn.ativo{
+	background-color: #2c2c54;
+	transition: 0.1s;
+}
+
+
+#listas {
+	margin: 100px 0px;
+}
+
+
+.col-md-4 #eng-quimica{
+	position: absolute;
+	top: 66px;	
+	left: 105px;
+}
+
+.col-md-4 #eng-mecanica{
+	position: absolute;
+	left: 95px;
+	top: 66px;
+}
+
+.col-md-4 #eng-civil{
+	position: absolute;
+	left: 115px;
+	top: 66px;
+
+
+
+
+}
+
+.col-md-4 #eng-controle-e-automacao{
+	position: absolute;
+	left: 46px;
+	top: 66px;
+
+
+
+
+
+
+
+}
+
+.col-md-4 #eng-de-computacao{
+	position: absolute;
+	left: 78px;
+	top: 66px;
+
+
+
+}
+
+
+
+.col-md-4 #eng-eletrica{
+	position: absolute;
+	left: 105px;
+	top: 66px;
+
+
+
+
+}
+
+
+.col-md-4 #eng-cartografica{
+	position: absolute;
+	left: 87px;
+	top: 66px;
+
+
+}
+
+.col-md-4 #eng-ambiental{
+	position: absolute;
+	left: 98px;
+	top: 66px;
+
+}
+
+.col-md-4 #eng-fisica{
+	position: absolute;
+	left: 110px;
+	top: 66px;
+}
+
+
+.col-md-4 #eng-metalurgica{
+	position: absolute;
+	left: 90px;
+	top: 66px;
+}
+
+.col-md-4 #eng-de-alimentos{
+	position: absolute;
+	left: 88px;
+	top: 66px;
+}
+
+.col-md-4 #eng-de-minas{
+	position: absolute;
+	left: 100px;
+	top: 66px;
+}
+
+
+.col-md-4 #eng-hidrica{
+	position: absolute;
+	left: 105px;
+	top: 66px;
+}
+
+.col-md-4 #eng-de-producao{
+	position: absolute;
+	left: 90px;
+	top: 66px;
+}
+
+.col-md-4 #eng-de-energia{
+	position: absolute;
+	left: 95px;
+	top: 66px;
+}
+
+.col-md-4 #eng-biomedica{
+	position: absolute;
+	left: 97px;
+	top: 66px;
+}
+
+.col-md-4 #eng-de-pesca{
+	position: absolute;
+	left: 100px;
+	top: 66px;
+}
+
+.col-md-4 #eng-aeroespacial{
+	position: absolute;
+	left: 90px;
+	top: 66px;
+}
+
+.col-md-4 #eng-naval{
+	position: absolute;
+	left: 105px;
+	top: 66px;
+}
+
+.col-md-4 #eng-de-software{
+	position: absolute;
+	left: 90px;
+	top: 66px;
+}
+
+.col-md-4 #eng-aeronautica{
+	position: absolute;
+	left: 90px;
+	top: 66px;
+}
+
+
+.col-md-4 #eng-mecatronica{
+	position: absolute;
+	left: 90px;
+	top: 66px;
+}
+
+.col-md-4 #eng-de-biossistemas{
+	position: absolute;
+	left: 77px;
+	top: 66px;
+}
+
+.col-md-4 #eng-florestal{
+	position: absolute;
+	left: 100px;
+	top: 66px;
+}
+
+
+.col-md-4 #eng-de-sistemas{
+	position: absolute;
+	left: 90px;
+	top: 66px;
+}
+
+.col-md-4 #eng-de-bioprocessos-e-biotecnologia{
+	position: absolute;
+	left: 25px;
+	top: 66px;
+}
+
+.col-md-4 #eng-biofisica{
+	position: absolute;
+	left: 100px;
+	top: 66px;
+}
+
+#engenharias {
+	background-color: #2c2c54;
+	width: 50%;
+	margin-top: 50px;
+	position: relative;
+	height: 70px;
+}
+
+
+#engenharias .texto{
+    margin-left: 350px;
+    color: #fff;
+
+    
+}
+
+
+#grupo-filtros{
+	margin-top: 40px;
+	margin-left: 30px;
+
+}
+
+
+#grupo-filtros button{
+	background-color: #2c2c54;
+	color: #fff;
+}
+.row-contato li{
+	display: inline;
+	margin: 10px 10px;
+}
+
+.row-contato h5{
+	color: #fff;
+	font-size: 15px;
+
+}
+
