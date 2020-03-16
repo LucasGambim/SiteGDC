@@ -61,7 +61,7 @@
             
           </div>
         <div class="texto">
-        <p>e novas tecnologias aplicadas na área da saúde, de alimentos, química e biológica. A formação prima por conhecimentos focados na Engenharia e na Biologia, na otimização de processos produtivos, na projeção de equipamentos e desenvolvimento de projetos relacionados às transformações biológicas.<p>
+        <p>A Engenharia de Bioprocessos é a área focada no desenvolvimento e controle de processos biotecnológicos. O curso envolve conhecimentos multidisciplinares e novas tecnologias aplicadas na área da saúde, de alimentos, química e biológica. A formação prima por conhecimentos focados na Engenharia e na Biologia, na otimização de processos produtivos, na projeção de equipamentos e desenvolvimento de projetos relacionados às transformações biológicas.<p>
       </div>
 
     </div>
@@ -91,7 +91,21 @@
 
 
 
-  
+  <div id="atuacao">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h2>Areas de Atuação</h2>
+          <p>Este engenheiro tem uma grande gama para atuar. O curso é bem diversificado e e abre portas para areas q vao de produção até pesquisa ou recursos humanos algumas delas são: 
+          <ul>
+            <li><h5>Pesquisa</h5></li>
+            <li><h5>Produção</h5></li>
+            <li><h5>Controle Hambiental</h5></li>
+            <li><h5>tratamento sanitario</h5></li>
+            <li><h5>Saude</h5></li>
+            <li><h5>agricultura</h5></li>
+
+          </ul>
           
 
         </div>
