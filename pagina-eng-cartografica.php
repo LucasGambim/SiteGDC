@@ -30,7 +30,7 @@
                 </div>
 
                 <div class="row">
-                  <img src="img/logo.png" alt="pesquisa" id="logo">
+                  <img src="img/logo.png" alt="pesquisa" id="logo" name="delicia">
                 </div>
             </div>
 
